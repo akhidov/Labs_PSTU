@@ -10,7 +10,7 @@ void main()
 {
 	setlocale(LC_ALL, "rus");
 
-	Time t, t1, t2, key;
+	Time t, t1, key;
 	int k, c;
 	char file_name[30];
 	do
