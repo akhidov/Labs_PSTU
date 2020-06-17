@@ -1,0 +1,43 @@
+﻿  Main.cpp
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(250,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(251,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(288,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(311,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(312,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(316,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(317,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(321,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(321,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(182,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(174): message : во время компиляции функции-члена класс шаблон "int Graph<char>::Dijkstra(T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\fireb\source\repos\TestApp\TestApp\Main.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<char>::Dijkstra(T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(350): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<char>"
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(193,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(208,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(82): message : во время компиляции функции-члена класс шаблон "int Graph<char>::GetVertPos(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(148): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<char>::GetVertPos(const T &)"
+          with
+          [
+              T=char
+          ]
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(47): message : во время компиляции функции-члена класс шаблон "Graph<char>::Graph(void)"
+C:\Users\fireb\source\repos\TestApp\TestApp\Main.cpp(5): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<char>::Graph(void)"
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(224,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(223): message : во время компиляции функции-члена класс шаблон "bool Graph<char>::allVisit(bool *)"
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(187): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<char>::allVisit(bool *)"
+C:\Users\fireb\source\repos\TestApp\TestApp\Graph.h(221): warning C4715: Graph<char>::Dijkstra: значение возвращается не при всех путях выполнения
+  TestApp.vcxproj -> C:\Users\fireb\source\repos\TestApp\Debug\TestApp.exe
