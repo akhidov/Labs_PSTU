@@ -1,0 +1,29 @@
+﻿  Main.cpp
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(35,24): warning C4091: extern : пропускается слева от "vertCoord", когда ни одна переменная не объявлена
+  comm.cpp
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(35,24): warning C4091: extern : пропускается слева от "vertCoord", когда ни одна переменная не объявлена
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(76,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(77,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(108,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(131,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(132,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(136,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(137,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(141,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(141,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(70): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(146): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.h(58): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\fireb\source\repos\Lab 32\Lab 32\comm.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Создание кода...
+  Lab 32.vcxproj -> C:\Users\fireb\source\repos\Lab 32\Debug\Lab 32.exe

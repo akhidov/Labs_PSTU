@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\fireb\source\repos\Lab 33\Lab 33\MyForm.h(243,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 33\Lab 33\MyForm.h(252,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 33\Lab 33\MyForm.h(262,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\fireb\source\repos\Lab 33\Lab 33\MyForm.h(344,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab 33.vcxproj -> C:\Users\fireb\source\repos\Lab 33\Debug\Lab 33.exe
